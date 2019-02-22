@@ -3,6 +3,10 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+项目简介：
+
+运用canny边缘检测、hough变换等技术找到并追踪视频中的车道线
+
 Overview
 ---
 
