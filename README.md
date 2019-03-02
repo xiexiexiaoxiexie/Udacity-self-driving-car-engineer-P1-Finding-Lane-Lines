@@ -4,7 +4,8 @@
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 扩展阅读：
-Detection of curves (lanes) with a lot of noise discontinuity and disturbances：
+
+1.Detection of curves (lanes) with a lot of noise discontinuity and disturbances：
 https://airccj.org/CSCP/vol5/csit53211.pdf
 
 项目简介：
