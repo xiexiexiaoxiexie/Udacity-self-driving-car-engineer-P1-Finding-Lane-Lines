@@ -3,6 +3,10 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+扩展阅读：
+Detection of curves (lanes) with a lot of noise discontinuity and disturbances：
+https://airccj.org/CSCP/vol5/csit53211.pdf
+
 项目简介：
 
 运用canny边缘检测、hough变换等技术找到并追踪视频中的车道线
